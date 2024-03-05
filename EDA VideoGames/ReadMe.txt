@@ -1,0 +1,2 @@
+Ta eksploracyjna analiza danych prowadzona jest na podstawie pliku: https://www.kaggle.com/datasets/gregorut/videogamesales
+This exploratory data analysis is conducted on the basis of the file: https://www.kaggle.com/datasets/gregorut/videogamesales
